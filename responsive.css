@@ -54,6 +54,7 @@
   }
   header .buttons .getStartedBtn {
     margin-top: 35px;
+    margin-left: 0;
   }
 }
 
